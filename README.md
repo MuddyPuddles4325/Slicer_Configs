@@ -1,2 +1,3 @@
-# SuperSlicer_Configs
-Configs for Super Slicer
+# Slicer_Configs
+Configs for SuperSlicer/Prusa Slicer
+
